@@ -1,8 +1,8 @@
 # Entendimento de negócio
 ## Marcos negociais
 ???+ abstract "Fase 1: Preparação do ambiente"
-    - [ ] Criar repositório gitlab
-    - [ ] Instalar ferramentas do projeto
+    - [x] Criar repositório gitlab
+    - [x] Instalar ferramentas do projeto
     
 
 ???+ abstract "Fase 2: Entendimento de negócio"

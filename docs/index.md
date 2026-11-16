@@ -1,4 +1,4 @@
-# Nome do projeto
+# 041 parajana
 
 ## Introdução
 
@@ -11,16 +11,16 @@
 ### Levantamento inicial
 
 !!! info "Tipo do projeto"
-    - [ ] Análise exploratória
+    - [x] Análise exploratória
     - [ ] Modelo preditivo
     - [ ] Modelo de classificação
-    - [ ] Modelo de agrupamento
+    - [x] Modelo de agrupamento
     - [ ] Detecção de anomalias
 
 ### Nível de acesso
 
 !!! warning "Confidencialidade"
-    - [ ] Público
+    - [x] Público
     - [ ] Interno (toda a organização)
     - [ ] Restrito (apenas a área requisitante)
 
@@ -35,7 +35,7 @@
 
 | Data       | Versão | Descrição                   | Autor         |
 | :--------- | :----- | :-------------------------- | :------------ |
-| 00/00/0000 | 1.0    | Versão inicial do documento | Nome do autor |
+| 06/11/2026 | 1.0    | Versão inicial do documento | Dalton |
 
 ### Dados do solicitante
 
@@ -46,7 +46,7 @@ flowchart TD
 
 | Nome                      | Cargo / Função | E-mail            |
 | :------------------------ | :------------- | :---------------- |
-| Especialista de negócio 1 | Função 1       | email@exemplo.com |
+| Dalton | Dev       | email@exemplo.com |
 | Especialista de negócio 2 | Função 2       | email@exemplo.com |
 
 ### Dados da equipe técnica

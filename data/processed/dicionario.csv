@@ -1,0 +1,14 @@
+variavel;descricao;valores;Tipo
+ride_id;Identificador único alfanumérico de cada viagem;['8E865410DBDE0CA9', 'C29B38D0D93E10BA'];Nominal
+rideable_type;Tipo de bicicleta utilizada (ex: clássica, elétrica);['electric_bike', 'classic_bike'];Nominal
+started_at;Data e hora exata do início da viagem;[Timestamp('2023-12-31 02:36:55.648000'), Timestamp('2024-01-31 23:56:38.776000')];Temporal
+ended_at;Data e hora exata do término da viagem;[Timestamp('2024-01-01 00:00:08.272000'), Timestamp('2024-01-31 23:59:56.370000')];Temporal
+start_station_name;Nome da estação onde a viagem foi iniciada;['3 St & 3 Ave', '2 Ave & 37 St'];Nominal
+start_station_id;Código identificador da estação de origem;['4028.03', '7154.10'];Nominal
+end_station_name;Nome da estação onde a viagem foi finalizada;['Carroll St & Smith St', '6 St & Grand St'];Nominal
+end_station_id;Código identificador da estação de destino;['4225.14', 'HB302'];Nominal
+start_lat;Latitude da estação ou ponto de partida;[40.633385, 40.8863];Contínua
+start_lng;Longitude da estação ou ponto de partida;[-74.0506564, -73.84978];Contínua
+end_lat;Latitude da estação ou ponto de chegada;[40.633385, 40.8863];Contínua
+end_lng;Longitude da estação ou ponto de chegada;[-74.066921, -73.84978];Contínua
+member_casual;Tipo de usuário que realizou a viagem (membro anual ou cliente casual);['casual', 'member'];Nominal
